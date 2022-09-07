@@ -8,8 +8,8 @@ body {
     font-family: Verdana, Geneva, Arial, sans-serif;
     font-size: small;
     padding: auto;
-}
-
+    background-color:#e6f2f8fd;
+    }
 h1, h2 {
     color: #df9042;
     border-bottom: thin dotted #888888;
