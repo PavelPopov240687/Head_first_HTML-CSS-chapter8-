@@ -17,7 +17,7 @@ h1, h2 {
 
 h1 {
     font-family: "Emblema One", sans-serif;
-    font-size: 200%;
+    font-size: 100%;
 }
 
 h2 {
@@ -30,7 +30,7 @@ blockquote {
 }
 div.summer {
     color: rgb(255, 255, 2);
-    font-size: 120%;
+    font-size: 100%;
     font-style: italic;
     background-color: #df9042;
     text-align: center ;
